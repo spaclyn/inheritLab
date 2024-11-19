@@ -1,0 +1,2 @@
+# inheritLab
+inheritance example lab
